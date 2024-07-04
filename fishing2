@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>САЙТИК!!!!!!!</title>
+</head>
+<style>
+    body {
+        background-image: url('photo.jpg'); /* Настройка фона */
+        background-size: cover;  /*атрибут чтобы картинка занимала весь экран*/
+        background-repeat: no-repeat; /* чтобы картинка была выровнена по центру */
+    }
+</style>
+</body>
+</html>
